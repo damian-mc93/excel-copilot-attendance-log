@@ -11,7 +11,6 @@ This project was completed as part of the Microsoft Excel & Copilot Fundamentals
 ## Files
 - `Attendance_Log.xlsx` – Sample attendance data.
 - `Attendance_Template.xlsx` – Template with automated calculations.
-- Screenshots (optional) – Visual overview of charts and metrics.
 
 ## Skills Demonstrated
 - Excel formulas and functions
