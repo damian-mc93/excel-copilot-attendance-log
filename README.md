@@ -9,7 +9,7 @@ This project was completed as part of the Microsoft Excel & Copilot Fundamentals
 - Demonstrates basic prompt engineering skills for Copilot.
 
 ## Files
-- `Attendance_Log.xlsx` – Sample attendance data.
+- `Attendance Tracker.xlsx` – Sample attendance data.
 - `Attendance_Template.xlsx` – Template with automated calculations.
 
 ## Skills Demonstrated
