@@ -10,7 +10,7 @@ This project was completed as part of the Microsoft Excel & Copilot Fundamentals
 
 ## Files
 - `Attendance Tracker.xlsx` – Sample attendance data.
-- `Attendance_Template.xlsx` – Template with automated calculations.
+- `Attendance Tracker Template.xltx` – Template with automated calculations.
 
 ## Skills Demonstrated
 - Excel formulas and functions
